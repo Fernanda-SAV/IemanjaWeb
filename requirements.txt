@@ -3,3 +3,7 @@ pandas
 plotly
 scikit-learn
 datetime
+ipywidgets
+matplotlib
+numpy
+IPython.display
