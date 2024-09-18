@@ -14,7 +14,7 @@ with st.container():
         email = st.text_input("Email")
         message = st.text_area("Mensagem")
 
-        # Botão para enviar o formulário
+        
         submit_button = st.form_submit_button(label='Enviar')
 
         if submit_button:
